@@ -1,16 +1,12 @@
-### Hi there 👋
+Hello Future Tech (こんにちはフューチャーテック) 👋
+I am Chulindra Rai
 
-<!--
-**IotchulindraRai/IotchulindraRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on technology
+- 🌱  currently I am learning Technology
+- 🤔 I’m looking for help of experienced technical guidance
+- 💬 ask me about technical question and doubts
+- 📫 How to reach me: #linkedin https://www.linkedin.com/in/chulindra-rai-a51308206?originalSubdomain=np
+-  #Youtube: https://www.youtube.com/channel/UC4W8ytyAfWaZdLxKJwvmnFA
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There are 4.57 billion Internet users as of December 2021. This represents 59% of the global population. Ten years ago, in 2010, fewer than 2 billion people were online. Nearly half of all Internet users live in Asia – 765 million people in China and 600 million people in India use the Internet
 -->
