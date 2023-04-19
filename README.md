@@ -3,7 +3,7 @@ I am Chulindra Rai
 
 
 - 🌱  currently I am learning  Btech.
-- 🤔 I’m looking for help of experienced technical guidance
+- 🤔 I’m looking for help of experienced  mentor and passionated in  Javascript deveeloper , software development , Java developer,,data Analyst
 - 💬 ask me about technical question and doubts
 - 📫 How to reach me: Linkedin-[Chulindra](https://np.linkedin.com/in/chulindra-rai-a51308206)
 - 😄 Pronouns: He/Him
