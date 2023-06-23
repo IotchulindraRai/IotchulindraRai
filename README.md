@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js , Java**
 
-- 👨‍💻 portolio link [https://chulindraportfolio.netlify.app/](https://chulindraportfolio.netlify.app/)
+- 👨‍💻 portfolio link [https://chulindraportfolio.netlify.app/](https://chulindraportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@chulinrai](https://medium.com/@chulinrai)
 
