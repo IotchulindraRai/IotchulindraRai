@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iotchulindrarai" alt="iotchulindrarai" /></a> </p>
 <p align="left"> <a href="https://twitter.com/chulindra" target="blank"><img src="https://img.shields.io/twitter/follow/chulindra?logo=twitter&style=for-the-badge" alt="chulindra" /></a> </p>
 
-- 🔭 I’m currently mini project [ Restaurant-LuxuryFood-Bite  management system that have payment system too ](https://github.com/IotchulindraRai/Restaurant-LuxuryFood-Bite)
+- 🔭 I’m currently mini project [ Restaurant-LuxuryFood-Bite  management system  ](https://github.com/IotchulindraRai/Restaurant-LuxuryFood-Bite)
 
 - 🌱 I’m currently learning **Node.js , Java**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chulinrai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_d8oFxMHgj76IPslA7Lh7D5DVj5N2JRR/view?usp=drive_link](https://drive.google.com/file/d/1_d8oFxMHgj76IPslA7Lh7D5DVj5N2JRR/view?usp=drive_link)]([https://drive.google.com/file/d/1wWCvzmd2l1mwBeaKVEHjTZeR0ddbV7tu/view](https://drive.google.com/file/d/1_d8oFxMHgj76IPslA7Lh7D5DVj5N2JRR/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_d8oFxMHgj76IPslA7Lh7D5DVj5N2JRR/view?usp=drive_link
 
 - ⚡ Fun fact **There are 4.57 billion Internet users as of December 2021. This represents 59% of the global population. Ten years ago, in 2010, fewer than 2 billion people were online. Nearly half of all Internet users live in Asia – 765 million people in China and 600 million people in India use the Internet.**
 
