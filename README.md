@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iotchulindrarai" alt="iotchulindrarai" /></a> </p>
 <p align="left"> <a href="https://twitter.com/chulindra" target="blank"><img src="https://img.shields.io/twitter/follow/chulindra?logo=twitter&style=for-the-badge" alt="chulindra" /></a> </p>
 
-- 🔭 I’m currently mini project [ Restaurant-LuxuryFood-Bite  management system  ](https://github.com/IotchulindraRai/Restaurant-LuxuryFood-Bite)
+- 🔭 I’m currently mini project [ Online Food Order Management System  ](https://github.com/IotchulindraRai/Online-Food-Ordering-System-using-PHP)
 
 - 🌱 I’m currently learning **Node.js , Java**
 
