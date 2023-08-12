@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently  project [ Online Food Order Management System  ](https://github.com/IotchulindraRai/Online-Food-Ordering-System-using-PHP)
 
-- 🌱 I’m currently learning ** Javascript,Node.js ,PHP, Java ,MYSQL**
+- 🌱 I’m currently learning **Javascript,Node.js ,PHP, React ,MYSQL**
 
 - 👨‍💻 portfolio link [https://chulindraportfolio.netlify.app/](https://chulindraportfolio.netlify.app/)
 
