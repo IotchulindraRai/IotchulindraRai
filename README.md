@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, PHP ,node.js**
 
-- 📫 How to reach me **chulinrai@gmail.com**
+- 📫 How to reach me **chulindrarai123@gmail.com**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1_d8oFxMHgj76IPslA7Lh7D5DVj5N2JRR/view?usp=sharing)
 
