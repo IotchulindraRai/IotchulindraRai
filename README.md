@@ -2,7 +2,7 @@
 <h1 align="center"> こんにちは I'm Chulindra Rai</h1>
 <h3 align="left">I am  passionate in Frontend development ,Backend and Machine learning engineer   and I am  from Nepal and i am stilling learning </h3>
 <img align="center" alt="Coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iotchulindrarai&label=Profile%20views&color=0e75b6&style=flat" alt="iotchulindrarai" /> </p>
+<p align="left" text-size=23 rpm><b>Visitor-count </b> <img src="https://komarev.com/ghpvc/?username=iotchulindrarai&label=Profile%20views&color=0e75b6&style=flat" alt="iotchulindrarai" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iotchulindrarai" alt="iotchulindrarai" /></a> </p>
 <p align="left"> <a href="https://twitter.com/chulindra" target="blank"><img src="https://img.shields.io/twitter/follow/chulindra?logo=twitter&style=for-the-badge" alt="chulindra" /></a> </p>
 
