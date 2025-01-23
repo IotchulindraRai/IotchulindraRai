@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently doing project on [ WEBSense AI ] (https://github.com/IotchulindraRai/Websense_summerize)
 
-- 🌱 I’m currently learning **Javascript,Node.js ,Django, React ,MongoDB,MYSQL**
+- 🌱 I’m currently learning **Javascript,Node.js ,Django, React ,NEXT.Js, Typescript,MongoDB,MYSQL**
 
 - 👨‍💻 portfolio link [https://chulindraportfolio.netlify.app/](https://chulindraraiportfolio.netlify.app/)
 
