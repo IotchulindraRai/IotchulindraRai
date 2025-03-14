@@ -1,4 +1,3 @@
-
 <h1 align="center"> こんにちは I'm Chulindra Rai</h1>
 <h3 align="left">I am  passionate in Frontend development ,Backend and Machine learning engineer   and I am  from Nepal and i am stilling learning </h3>
 <img align="center" alt="Coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
