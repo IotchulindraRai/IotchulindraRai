@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript,Node.js ,Django, React ,NEXT.Js, Typescript,MongoDB,MYSQL**
 
-- 👨‍💻 portfolio link [https://chulindraraiportfolio.netlify.app/](https://chulindraraiportfolio.netlify.app/)
+- 👨‍💻 portfolio link [https://chulindraportfolio.netlify.app/](https://chulindraraiportfolio.netlify.app/)
 
   - 👨‍💻 DOCKEHUB  link [(https://hub.docker.com/u/chulindatacollect)]
 
